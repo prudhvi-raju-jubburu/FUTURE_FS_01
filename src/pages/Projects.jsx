@@ -6,7 +6,7 @@ const Projects = () => {
   const projectsData = [
     {
       id: 1,
-      title: 'Geo-Enabled Tourism System',
+      title: 'Visist Ap : Geo-Enabled Tourism System',
       description: 'A comprehensive full-stack tourism platform for Andhra Pradesh. Features include interactive maps, point-of-interest discovery, and real-time navigation integration for travelers.',
       techStack: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Maps API'],
       githubLink: 'https://github.com/prudhvi-raju-jubburu/visitap',
@@ -32,15 +32,15 @@ const Projects = () => {
       liveLink: 'https://prudhviraju-portfolio.vercel.app/',
       image: '/projects/portfolio.png'
     },
-    {
-      id: 4,
-      title: 'NSS GMRIT Portal',
-      description: 'A robust management system developed for NSS GMRIT to streamline volunteer attendance tracking, unit activity reporting, and organizational management.',
-      techStack: ['HTML5', 'CSS3', 'JavaScript', 'PHP', 'MySQL'],
-      githubLink: 'https://github.com/prudhvi-raju-jubburu/NSS---GMRIT',
-      // liveLink: '#',
-      image: '/projects/nss.png'
-    }
+    // {
+    //   id: 4,
+    //   title: 'NSS GMRIT Portal',
+    //   description: 'A robust management system developed for NSS GMRIT to streamline volunteer attendance tracking, unit activity reporting, and organizational management.',
+    //   techStack: ['HTML5', 'CSS3', 'JavaScript', 'PHP', 'MySQL'],
+    //   githubLink: 'https://github.com/prudhvi-raju-jubburu/NSS---GMRIT',
+    //   // liveLink: '#',
+    //   image: '/projects/nss.png'
+    // }
   ];
 
   const containerVariants = {
